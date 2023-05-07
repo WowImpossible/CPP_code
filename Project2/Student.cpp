@@ -24,6 +24,7 @@ Student::Student()
 {
 	name = "wangli";
 	num = "1234567";
+	test = 0;
 
 	cout << name << endl;
 	cout << num << endl;
@@ -47,7 +48,7 @@ int Student::grade::querry_gra()
 	cout << chinese << endl;
 	cout << math << endl;
 	cout << english << endl;
-	//cout << Student::test << endl;  Error , 嵌套类是不可以访问外围类的。
+	//cout << test << endl;  //Error , 嵌套类是不可以访问外围类的。
 	return 0;
 }
 
