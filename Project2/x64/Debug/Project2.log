@@ -1,3 +1,2 @@
-﻿  Student.cpp
-D:\CPP_code\Project2\Student.cpp(51,15): error C2327: “Student::test”: 不是类型名称、静态或枚举数
-D:\CPP_code\Project2\Student.cpp(51,10): error C2065: “test”: 未声明的标识符
+﻿  main_3.cpp
+D:\CPP_code\Project2\main_3.cpp(36,8): error C2059: 语法错误:“常数”
