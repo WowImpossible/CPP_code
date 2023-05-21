@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\CPP_code\static_test\Test.h(17,1): warning C4010: 单行注释包含行继续符
+  static_test.vcxproj -> D:\CPP_code\static_test\Debug\static_test.exe
