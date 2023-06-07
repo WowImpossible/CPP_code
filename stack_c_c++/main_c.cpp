@@ -98,6 +98,7 @@ void StackClearnup(struct Stack* stack)
 int main()
 {
 	int data = 0;
+	//struct Stack stack {0,0};//不可以用()
 	struct Stack* stack = (struct Stack*)malloc(sizeof(struct Stack));
 	//初始化
 	StackInit(stack);
